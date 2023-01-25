@@ -8,4 +8,4 @@
 - cv2
 ##### This project is used to convert an image to the pencil sketch using python library cv2 by going through different stages of image conversion.
 
-[To View demo Video, Click Here](https://www.linkedin.com/posts/sakshi-porwal-786159214_january2022-opportunity-python-activity-7023523553421475840-TDlD?utm_source=share&utm_medium=member_desktop)
+[To View demo Video, Click Here](https://www.linkedin.com/posts/sakshi-porwal-786159214_january2022-opportunity-python-activity-7024058385654255616-ihUh?utm_source=share&utm_medium=member_desktop)
